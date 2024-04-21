@@ -1,4 +1,8 @@
-### Hi there 👋
+# About Me 💃🏽
+Currently, I'm a researcher in law enforcement looking to make a career change into tech 🖥️ 
+I am at the very beginning of my journey and I will continue to document my progress here 🫣
+Let's go! 
+
 
 <!--
 **mecooper2/mecooper2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
